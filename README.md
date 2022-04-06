@@ -12,8 +12,8 @@ https://github.com/Jeffrey-love/Flask
   Xpath | https://github.com/Jeffrey-love/Crawler_Xpath  
   Selenium | https://github.com/Jeffrey-love/Crawler_Selenium
   
-* Python网页自动化项目
-  代码-> 
+* Python网页自动化项目  
+  代码-> https://github.com/Jeffrey-love/Python_FullStackdevelopver/blob/main/SELE.py
   
 * 渗透测试工具系列 （含整合扫描工具）  
   https://github.com/Jeffrey-love/Penetration_tools
