@@ -18,3 +18,5 @@ https://github.com/Jeffrey-love/Flask
   
 * 渗透测试工具系列 （含整合扫描工具）  
   https://github.com/Jeffrey-love/Penetration_tools
+  基于在线的子域名审查工具  
+  https://github.com/Jeffrey-love/Python_FullStackdevelopver/blob/main/dns_check.py
